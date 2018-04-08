@@ -1,0 +1,80 @@
+.pageTitle---3QtvA{
+    font-weight: bold !important;
+    color:red !important;
+}
+.ext_tooltip{
+    display: inline-block;
+    border-radius: 50%;
+    z-index: -1;
+    color:#fff;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 3px;
+    margin-right: 5px;
+    background-color: green;
+    
+}
+.popup_content{
+    width:330px;
+    height:auto;
+    padding:5px;
+    border-radius:2px;
+    position: relative;
+    overflow: hidden;
+    left:0px;
+    top:0px;
+    z-index: 99999;
+    -webkit-box-shadow: 11px 10px 18px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 11px 10px 18px -10px rgba(0,0,0,0.75);
+box-shadow: 11px 10px 18px -10px rgba(0,0,0,0.75);
+background-color:#fff;
+color:#000;
+
+}
+.content_editable{
+    width:310px;
+    height:100px;
+    padding:5px;
+    overflow: auto;
+
+    /* background: blue;
+    color:red; */
+}
+.delete_btn{
+    float:right;
+}
+.pupup_close{
+        /* float: right; */
+        left: 95%;
+        /* position: absolute; */
+        display: inline-block;
+        text-align: right;
+        position: relative;
+        width: 20px;
+        height: 20px;
+        background: #9b9b9b;
+        border-radius: 50%;
+        color: #fff;
+        text-align: center;
+}
+.date-picker{
+    width:130px;
+}
+.bold{
+   
+    font-weight: bold;
+}
+.buy-info{
+    margin-bottom:10px;
+}
+.left{
+  float:left;
+}
+.right{
+    float:right;
+}
+.clear{
+    clear:both;
+}
